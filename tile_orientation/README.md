@@ -5,7 +5,7 @@ are up-down flipped in FITS format when compared to the JPEG and PNG format.
 
 ### Original all-sky image in JPG format
 
-<img src="https://github.com/hipspy/hips-extra/raw/master/datasets/samples/IRAC4/Norder3/Allsky.jpg" width="200">
+<img src="https://github.com/hipspy/hips-extra/raw/master/datasets/samples/IRAC4/Norder3/Allsky.jpg" width="400">
 
 ### All-sky image in JPG format from the script
 
