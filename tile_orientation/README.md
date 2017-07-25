@@ -9,6 +9,9 @@ All images shown here follow the JPEG convention and image viewers of having
 
 ## Tile image example
 
+This is the tile with `order=3` and `ipix=271` from here:
+https://github.com/hipspy/hips-extra/raw/master/datasets/samples/IRAC4/Norder3//Dir0/Npix271.jpg
+
 ### Original image in JPG format
 
 <img src="https://github.com/hipspy/hips-extra/raw/master/datasets/samples/IRAC4/Norder3//Dir0/Npix271.jpg" width="400">
